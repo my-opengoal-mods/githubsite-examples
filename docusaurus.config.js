@@ -11,7 +11,7 @@ const config = {
   title: "OpenGOAL",
   tagline: "Not the real site",
   url: "https://opengoal.dev",
-  baseUrl: "/",
+  baseUrl: "/githubsite-examples/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "throw",
   favicon: "img/favicon.png",
