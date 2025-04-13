@@ -9,7 +9,7 @@ const darkCodeTheme = themes.dracula;
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "OpenGOAL",
-  tagline: "Reviving the Language that Brought us the Jak and Daxter Series",
+  tagline: "Not the real site",
   url: "https://opengoal.dev",
   baseUrl: "/",
   onBrokenLinks: "throw",
